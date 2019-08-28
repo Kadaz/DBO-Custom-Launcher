@@ -1,0 +1,9 @@
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\bin\Debug\DBO Private Server.exe
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\bin\Debug\DBO Private Server.pdb
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\bin\Debug\DBO Private Server.xml
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO_Private_Server.Form1.resources
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO_Private_Server.Resources.resources
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO Private Server.vbproj.GenerateResource.Cache
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO Private Server.exe
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO Private Server.xml
+c:\users\apostolos\documents\visual studio 2010\Projects\DBO Private Server\DBO Private Server\obj\x86\Debug\DBO Private Server.pdb
